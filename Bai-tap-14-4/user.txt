@@ -1,0 +1,6 @@
+admin admin
+guest guest
+user1 pass123
+test testpass
+alice wonderland
+bob builder
