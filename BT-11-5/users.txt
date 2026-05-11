@@ -1,0 +1,4 @@
+admin admin
+guest napass
+user1 123
+user2 234
